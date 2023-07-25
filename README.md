@@ -6,5 +6,5 @@ I am a UTSA student currently majoring in Cyber Security.
 </div>
 <p> </p>
 I'm Just Andrew, nothing fancy.
-    <img src=https://1drv.ms/i/s!Av9AmdmklJbYlHQVfOFUED1UzQoC?e/>
+    
 </div>
